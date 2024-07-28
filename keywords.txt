@@ -1,0 +1,6 @@
+Tachometer	KEYWORD1
+init		KEYWORD2
+getRPM		KEYWORD2
+setSensorPin	KEYWORD2
+getCurrentRevs	KEYWORD2
+getSensorPin	KEYWORD2
