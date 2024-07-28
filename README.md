@@ -1,9 +1,5 @@
 # Tachometer Library for Arduino
 
-## Disclaimer
-
-You can only create one instance
-
 ## Overview
 
 The Tachometer library allows you to measure the rotational speed (RPM) using a tachometer sensor with an Arduino. It provides an easy interface to initialize the sensor, handle interrupts, and calculate RPM based on sensor pulses.
